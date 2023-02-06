@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_name_size">26sp</dimen>
+    <dimen name="team_score_size">80sp</dimen>
+    <dimen name="bt_tv_size">26dp</dimen>
+    <dimen name="team_bt_w">160dp</dimen>
+    <dimen name="team_bt_h">60dp</dimen>
+    <dimen name="bt_rest_w">80dp</dimen>
+    <dimen name="bt_rest_h">80dp</dimen>
+</resources>

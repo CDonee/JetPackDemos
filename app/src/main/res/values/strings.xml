@@ -1,3 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">JetPackSty</string>
+    <string name="score">score</string>
+    <string name="user">jack</string>
+    <string name="score_back">scoreback</string>
+    <string name="score_reset">scoreRest</string>
+    <string name="team_red">RED</string>
+    <string name="team_blue">BLUE</string>
 </resources>
